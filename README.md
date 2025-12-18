@@ -52,9 +52,11 @@ The system allows multiple roles—Admin, Manager, Employee, and Customer—to p
 - Order processing and stock control
 - Educational use for learning data structures and OOP concepts
 
-## Conclusion
-This Warehouse Management System provides a robust and efficient way to handle warehouse operations. By leveraging object-oriented principles, role-based access, and stack/queue data structures, the system ensures smooth and organized management of products, employees, and customers. The modular design allows easy maintenance and potential scalability for larger warehouse operations.
-
 ## Problems Faced
 - Handling inheritance errors during implementation required careful debugging.
 - Integrating C++ concepts in a meaningful, real-world application posed design challenges.
+
+## Conclusion
+This Warehouse Management System provides a robust and efficient way to handle warehouse operations. By leveraging object-oriented principles, role-based access, and stack/queue data structures, the system ensures smooth and organized management of products, employees, and customers. The modular design allows easy maintenance and potential scalability for larger warehouse operations.
+
+
